@@ -1,0 +1,6 @@
+query Test() {
+  test() {
+    id
+    data
+  }
+}
